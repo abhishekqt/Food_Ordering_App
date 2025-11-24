@@ -42,21 +42,21 @@ Users who need a minimal ordering interface without complex infrastructure.
 
 **High-Level Features**
 
-__Menu Display:__
+>>__Menu Display:__
 
 Displays a predefined list of food items along with their prices.
 
 Items include Burger, Pizza, Salad, Fries, and Soda.
 
 
-__Add to Cart Functionality:__
+>>__Add to Cart Functionality:__
 
 Allows users to select an item from the list and add it to their cart.
 
 Automatically increases item quantity if the same item is added multiple times.
 
 
-__Cart Overview Panel:__
+>>__Cart Overview Panel:__
 
 Shows all selected items, their quantities, and calculated item-wise cost.
 
@@ -65,7 +65,7 @@ Automatically updates whenever the cart changes.
 Displays the total bill amount.
 
 
-__Order Placement:__
+>>__Order Placement:__
 
 Provides confirmation prompts before placing an order.
 
