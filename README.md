@@ -39,13 +39,13 @@ The system simulates the workflow of a real-world food ordering interface with a
 
 ## Technologies / Tools Used
 
-Python 3
+  - Python 3
 
-Tkinter (Python GUI Toolkit)
+  - Tkinter (Python GUI Toolkit)
 
-Messagebox module for pop-ups and alerts
+  - Messagebox module for pop-ups and alerts
 
-Dictionary-based data storage for menu and cart
+  - Dictionary-based data storage for menu and cart
 
 
 
